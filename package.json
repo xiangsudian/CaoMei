@@ -1,0 +1,25 @@
+{
+  "name": "caomei",
+  "version": "0.0.0",
+  "description": "为开发者设计的一套免费开源图标库",
+  "main": "dist/caomei.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangsudian/CaoMei.git"
+  },
+  "keywords": [
+    "font",
+    "icon-font",
+    "icons",
+    "css"
+  ],
+  "author": "xiangsudian <2495792450@qq.com>",
+  "license": "(OFL-1.1 AND MIT)",
+  "bugs": {
+    "url": "https://github.com/xiangsudian/CaoMei/issues"
+  },
+  "homepage": "http://chuangzaoshi.com/caomei/"
+}
