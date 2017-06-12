@@ -4,9 +4,9 @@
 
 为开发者设计的一套免费开源图标库
 
-- 草莓图标库的特点一 TBD
-- 草莓图标库的特点二 TBD
-- 草莓图标库的特点三 TBD
+- 原创设计，风格统一。
+- 16X16的像素方格大小精心绘制，像素级别的完美显示
+- 资源轻量、使用灵活、多设备兼容
 
 这里放上草莓图标库的宣传图 (888 * ???) TBD
 
@@ -32,7 +32,7 @@ TBD
 
 ### 更新新版本
 
-1. 上传 SVG 格式的图标到 [IcoMoon App](https://icomoon.io/#app-features)
+1. 上传 SVG 格式的图标到 IcoMoon
 2. 生成之后手动替换掉 `dist` 中的文件
 3. 执行 `git add :/ && git commit -m "Update icons"` 提交更新
 4. 执行 `npm version patch && git push && npm publish` 提交到 GitHub 和 npm（视更新内容可能需要将 `patch` 替换为 `minor` 或 `major`，详见版本号规则）
