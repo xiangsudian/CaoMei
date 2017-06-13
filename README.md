@@ -1,6 +1,6 @@
 这里放一个大的草莓图标库的 Logo (??? * 200) TBD
 
-# [草莓图标库](http://x.y/zTBD)
+# [草莓图标库](http://chuangzaoshi.com/icon/)
 
 为开发者设计的一套免费开源图标库
 
@@ -8,15 +8,12 @@
 - 资源轻量、使用灵活、多设备兼容
 - 原创设计，风格统一，私用商用无版权风险
 
-这里放上草莓图标库的宣传图 (888 * ???) TBD
-
 ## 开始使用
 
 ### 获取草莓图标库
 
 #### 下载
-
-TBD
+[Download](http://chuangzaoshi.com/icon/caomeiv1.0.0.zip)。
 
 ### 使用方法
 
@@ -24,7 +21,7 @@ TBD
 2. 在 `<head>` 标签中添加 `<link rel="stylesheet" href="path/to/caomei.css">`
 3. 在需要图标的地方添加对应 `class` 的 `<span>` 即可，已书籍图标为例，`<span class="czs-book"></span>` 即可
 
-查看所有图标示例请点[这里](http://xxx.yyyTBD)。
+查看所有图标示例请点[这里](http://chuangzaoshi.com/icon/)。
 
 ## 开发
 
@@ -60,4 +57,4 @@ TBD
 ## 品牌图标
 
 草莓图标库中的所有品牌标志均为其各自所有者的商标。
-请勿将品牌图标用于除了代表该品牌或服务之外的目的。如果侵犯你的权利，请联系我们hi@chuangzaoshi.com
+请勿将品牌图标用于除了代表该品牌或服务之外的目的。
