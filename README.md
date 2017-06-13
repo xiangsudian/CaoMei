@@ -11,9 +11,7 @@
 ## 开始使用
 
 ### 获取草莓图标库
-
-#### 下载
-[Download](http://chuangzaoshi.com/icon/caomeiv1.0.0.zip)。
+http://chuangzaoshi.com/icon/
 
 ### 使用方法
 
