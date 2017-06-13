@@ -1,0 +1,13 @@
+草莓图标
+http://chuangzaoshi.com/icon/
+
+使用文档
+https://github.com/xiangsudian/caomei
+
+License
+草莓图标库中的字体遵循 SIL OFL 1.1 协议
+草莓图标库中的 css 遵循 MIT 协议
+草莓图标库中的文档遵循 CC BY 3.0 协议
+品牌图标
+
+草莓图标库中的所有品牌标志均为其各自所有者的商标。 请勿将品牌图标用于除了代表该品牌或服务之外的目的。如果侵犯你的权利，请联系我们hi@chuangzaoshi.com
