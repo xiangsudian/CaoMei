@@ -1,4 +1,4 @@
-这里放一个大的草莓图标库的 Logo (??? * 200) TBD
+![enter image description here](http://chuangzaoshi.com/icon/caomeibanner.png)
 
 # [草莓图标库](http://chuangzaoshi.com/icon/)
 
