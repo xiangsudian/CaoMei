@@ -59,6 +59,6 @@ http://chuangzaoshi.com/icon/
 
 ## 草莓1.0.1更新日志
 
-优化：[chemistry] [chemistry-l] [bug] [message-l] [tmall] [talk] [talk-l] [bilibili] [menu-l] [pengyouquan]
-新增：[bug-l] [message] [save-l] [camera] [layout-grids] [category-l] [localtion] [command-l] [command]
-修复：纠正1.0.0命名错误！
+- 优化：[chemistry] [chemistry-l] [bug] [message-l] [tmall] [talk] [talk-l] [bilibili] [menu-l] [pengyouquan]
+- 新增：[bug-l] [message] [save-l] [camera] [layout-grids] [category-l] [localtion] [command-l] [command]
+- 修复：纠正1.0.0命名错误！
