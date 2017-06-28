@@ -57,6 +57,12 @@ http://chuangzaoshi.com/icon/
 草莓图标库中的所有品牌标志均为其各自所有者的商标。
 请勿将品牌图标用于除了代表该品牌或服务之外的目的。
 
+## 草莓1.2.0更新日志
+
+- 优化：[czs-cup] [czs-cup-l]
+- 新增：[czs-clock] [czs-clock-l] [czs-read] [czs-read-l] [czs-calculator] [czs-calculator-l] [czs-bluetooth] [czs-bluetooth-l] [czs-briefcase] [czs-briefcase-l] [czs-coin] [czs-coin-l] [czs-bitcoin] [czs-money] [czs-eye] [czs-code-fork] [czs-code-branch] [czs-quote-left]  手势：[czs-hand-bevel] [czs-hand-slide] [czs-hand-gather] [czs-hande-vertical] [czs-hand-Horizontal] [czs-hand-button] [czs-hand-touch] [czs-hand-pointer] [czs-hand-grasp] [czs-hand-stop] 
+- 官网：16px和32px 图标大小视觉切换！
+
 ## 草莓1.0.1更新日志
 
 - 优化：[chemistry] [chemistry-l] [bug] [message-l] [tmall] [talk] [talk-l] [bilibili] [menu-l] [pengyouquan]
