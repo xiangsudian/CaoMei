@@ -57,6 +57,11 @@ http://chuangzaoshi.com/icon/
 草莓图标库中的所有品牌标志均为其各自所有者的商标。
 请勿将品牌图标用于除了代表该品牌或服务之外的目的。
 
+## 草莓1.2.1更新日志
+![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fho2fkbilfj30q902kjr6.jpg)
+- 优化：[control] 
+- 新增：[add] [brush] [brush-l] [clothes] [clothes-l] [control-rank [rollerbrush] [rollerbrush-l] [ruler] [ruler-l] [share]
+
 ## 草莓1.2.0更新日志
 
 - 优化：[czs-cup] [czs-cup-l]
