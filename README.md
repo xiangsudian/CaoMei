@@ -63,13 +63,13 @@ http://chuangzaoshi.com/icon/
 - 新增：[add] [brush] [brush-l] [clothes] [clothes-l] [control-rank [rollerbrush] [rollerbrush-l] [ruler] [ruler-l] [share]
 
 ## 草莓1.2.0更新日志
-
+![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fhqjsr8yo0j30x607h3yl.jpg)
 - 优化：[czs-cup] [czs-cup-l]
 - 新增：[czs-clock] [czs-clock-l] [czs-read] [czs-read-l] [czs-calculator] [czs-calculator-l] [czs-bluetooth] [czs-bluetooth-l] [czs-briefcase] [czs-briefcase-l] [czs-coin] [czs-coin-l] [czs-bitcoin] [czs-money] [czs-eye] [czs-code-fork] [czs-code-branch] [czs-quote-left]  手势：[czs-hand-bevel] [czs-hand-slide] [czs-hand-gather] [czs-hande-vertical] [czs-hand-Horizontal] [czs-hand-button] [czs-hand-touch] [czs-hand-pointer] [czs-hand-grasp] [czs-hand-stop] 
 - 官网：16px和32px 图标大小视觉切换！
 
 ## 草莓1.0.1更新日志
-
+![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fho2fkbilfj30q902kjr6.jpg)
 - 优化：[chemistry] [chemistry-l] [bug] [message-l] [tmall] [talk] [talk-l] [bilibili] [menu-l] [pengyouquan]
-- 新增：[bug-l] [message] [save-l] [camera] [layout-grids] [category-l] [localtion] [command-l] [command]
+- 新增：[bug-l] [message] [save-l] [camera] [layout-grids] [category-l] [location] [command-l] [command]
 - 修复：纠正1.0.0命名错误！
