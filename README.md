@@ -69,7 +69,7 @@ http://chuangzaoshi.com/icon/
 - 官网：16px和32px 图标大小视觉切换！
 
 ## 草莓1.0.1更新日志
-![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fho2fkbilfj30q902kjr6.jpg)
+![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fhqjsrfk2zj30x7055mx3.jpg)
 - 优化：[chemistry] [chemistry-l] [bug] [message-l] [tmall] [talk] [talk-l] [bilibili] [menu-l] [pengyouquan]
 - 新增：[bug-l] [message] [save-l] [camera] [layout-grids] [category-l] [location] [command-l] [command]
 - 修复：纠正1.0.0命名错误！
