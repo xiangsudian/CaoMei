@@ -4,26 +4,23 @@
 
 为开发者设计的一套免费开源图标库
 
-- 16X16的像素方格大小精心绘制，像素级别的完美显示
-- 资源轻量、使用灵活、多设备兼容
-- 原创设计，风格统一，私用商用无版权风险
+- 精心绘制，风格统一，力求像素级别的完美显示
+- 使用高效，资源轻量、灵活、多设备兼容
+- 开源免费，个人私用和商用版权免费
 
 ## 开始使用
 
-### 获取草莓图标库
-http://chuangzaoshi.com/icon/
-
 ### 使用方法
 
-1. 将整个草莓图标库的目录复制到你的项目中
+1. 将整个草莓图标库的目录复制到你的项目中 
 2. 在 `<head>` 标签中添加 `<link rel="stylesheet" href="path/to/caomei.css">`
 3. 在需要图标的地方添加对应 `class` 的 `<i>` 即可，已书籍图标为例，`<i class="czs-book"></i>` 即可
 
-查看所有图标示例请点[这里](http://chuangzaoshi.com/icon/)。
+查看所有图标（图形和名字）[草莓图标官网](http://chuangzaoshi.com/icon/)。
 
 ## 开发
 
-草莓图标库使用 [IcoMoon App](https://icomoon.io/#app-features) 构建 css。
+草莓图标库使用 [IcoMoon App](https://icomoon.io/#app-features) 构建css和font文件。
 
 ### 更新新版本
 
@@ -64,9 +61,9 @@ http://chuangzaoshi.com/icon/
 
 ## 草莓1.2.0更新日志
 ![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fhqjsr8yo0j30x607h3yl.jpg)
-- 优化：[czs-cup] [czs-cup-l]
-- 新增：[czs-clock] [czs-clock-l] [czs-read] [czs-read-l] [czs-calculator] [czs-calculator-l] [czs-bluetooth] [czs-bluetooth-l] [czs-briefcase] [czs-briefcase-l] [czs-coin] [czs-coin-l] [czs-bitcoin] [czs-money] [czs-eye] [czs-code-fork] [czs-code-branch] [czs-quote-left]  手势：[czs-hand-bevel] [czs-hand-slide] [czs-hand-gather] [czs-hande-vertical] [czs-hand-Horizontal] [czs-hand-button] [czs-hand-touch] [czs-hand-pointer] [czs-hand-grasp] [czs-hand-stop] 
-- 官网：16px和32px 图标大小视觉切换！
+- 优化：[cup] [cup-l]
+- 新增：[clock] [clock-l] [read] [read-l] [calculator] [calculator-l] [bluetooth] [bluetooth-l] [briefcase] [briefcase-l] [coin] [coin-l] [bitcoin] [money] [eye] [code-fork] [code-branch] [quote-left]  手势：[hand-bevel] [hand-slide] [hand-gather] [hande-vertical] [hand-Horizontal] [hand-button] [hand-touch] [hand-pointer] [hand-grasp] [hand-stop] 
+- 完善：官网16px和32px图标大小视觉切换！
 
 ## 草莓1.0.1更新日志
 ![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fhqjsrfk2zj30x7055mx3.jpg)
