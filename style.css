@@ -630,7 +630,7 @@
 .czs-pen:before {
   content: "\e9c9";
 }
-.czs-pengyouquan:before {
+.czs-pengyouquan:before, .czs-moments:before {
   content: "\e9ca";
 }
 .czs-pen-write:before {
@@ -903,10 +903,10 @@
 .czs-weibo:before {
   content: "\ea24";
 }
-.czs-weixin:before {
+.czs-weixin:before, .czs-wechat:before {
   content: "\ea25";
 }
-.czs-weixinzhifu:before {
+.czs-weixinzhifu:before, .czs-wechat-pay:before {
   content: "\ea26";
 }
 .czs-wifi:before {
