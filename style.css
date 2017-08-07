@@ -903,7 +903,7 @@
 .czs-weibo:before {
   content: "\ea24";
 }
-.czs-weixin:before {
+.czs-weixin:before, .czs-wechat:before {
   content: "\ea25";
 }
 .czs-weixinzhifu:before {
