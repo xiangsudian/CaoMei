@@ -630,7 +630,7 @@
 .czs-pen:before {
   content: "\e9c9";
 }
-.czs-pengyouquan:before {
+.czs-pengyouquan:before, .czs-moments:before {
   content: "\e9ca";
 }
 .czs-pen-write:before {
