@@ -906,7 +906,7 @@
 .czs-weixin:before, .czs-wechat:before {
   content: "\ea25";
 }
-.czs-weixinzhifu:before {
+.czs-weixinzhifu:before, .czs-wechat-pay:before {
   content: "\ea26";
 }
 .czs-wifi:before {
