@@ -56,11 +56,13 @@
 
 ## 草莓1.2.8更新日志
 ![v1.2.8](http://ww4.sinaimg.cn/large/0060lm7Tly1fkaxnt84xij30ww04t74c.jpg)
+- 优化：[github] 
+- 新增：[taiji] [telegram] [qzone] [pinterest] [paypal] [zhihu] [raspberry] [github-logo] [Instagram] [greatwall] [greatwall-l] [microchip-l] [shopping-cart-l] [shopping-cart] [truck] [truck-l] [map] [map-l] [board] [board-l] [rocket-l] [rocket] [lightning] [lightning-l] [crown] [crown-l] 
 
 ## 草莓1.2.1更新日志
 ![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fho2fkbilfj30q902kjr6.jpg)
 - 优化：[control] 
-- 新增：[add] [brush] [brush-l] [clothes] [clothes-l] [control-rank [rollerbrush] [rollerbrush-l] [ruler] [ruler-l] [share]
+- 新增：[add] [brush] [brush-l] [clothes] [clothes-l] [control-rank] [rollerbrush] [rollerbrush-l] [ruler] [ruler-l] [share]
 
 ## 草莓1.2.0更新日志
 ![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fhqjsr8yo0j30x607h3yl.jpg)
