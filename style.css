@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'strawberryicon';
-  src:  url('fonts/strawberryicon.eot?aai8o0');
-  src:  url('fonts/strawberryicon.eot?aai8o0#iefix') format('embedded-opentype'),
-    url('fonts/strawberryicon.ttf?aai8o0') format('truetype'),
-    url('fonts/strawberryicon.woff?aai8o0') format('woff'),
-    url('fonts/strawberryicon.svg?aai8o0#strawberryicon') format('svg');
+  src:  url('fonts/strawberryicon.eot?ayv2mh');
+  src:  url('fonts/strawberryicon.eot?ayv2mh#iefix') format('embedded-opentype'),
+    url('fonts/strawberryicon.ttf?ayv2mh') format('truetype'),
+    url('fonts/strawberryicon.woff?ayv2mh') format('woff'),
+    url('fonts/strawberryicon.svg?ayv2mh#strawberryicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -43,7 +43,7 @@
   content: "\e905";
 }
 .czs-angle-down-l:before {
-  content: "\e906";
+  content: "\e917";
 }
 .czs-angle-left-l:before {
   content: "\e907";
@@ -94,7 +94,7 @@
   content: "\e916";
 }
 .czs-bitcoin:before {
-  content: "\e917";
+  content: "\e9177";
 }
 .czs-blackboard-l:before {
   content: "\e918";
