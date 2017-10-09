@@ -55,7 +55,7 @@
 请勿将品牌图标用于除了代表该品牌或服务之外的目的。
 
 ## 草莓1.2.8更新日志
-![v1.2.8](http://ww4.sinaimg.cn/large/0060lm7Tly1fkaxnt84xij30ww04t74c.jpg)
+![v1.2.8](http://ww2.sinaimg.cn/large/0060lm7Tly1fkbtqqy6hhj30ww04rwej.jpg)
 - 优化：[github] 
 - 新增：[taiji] [telegram] [qzone] [pinterest] [paypal] [zhihu] [raspberry] [github-logo] [Instagram] [greatwall] [greatwall-l] [microchip-l] [shopping-cart-l] [shopping-cart] [truck] [truck-l] [map] [map-l] [board] [board-l] [rocket-l] [rocket] [lightning] [lightning-l] [crown] [crown-l] 
 
