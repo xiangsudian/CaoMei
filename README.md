@@ -4,9 +4,9 @@
 
 为开发者设计的一套免费开源图标库
 
-- 精心绘制，风格统一，力求像素级别的完美显示
-- 使用高效，资源轻量、灵活、多设备兼容
-- 开源免费，个人私用和商用版权免费
+- 精心绘制 丨 风格统一、力求像素级级显示
+- 使用高效 丨 资源轻量、灵活、多设备兼容
+- 开源免费 丨 个人私用和商用版权开源免费
 
 ## 开始使用
 
@@ -18,7 +18,7 @@
 
 ## 设计开发
 
-- 草莓图标库使用 [Adobe Illustrator](http://www.adobe.com/cn/products/illustrator.html) / [Sketch](https://www.sketchapp.com/) 设计软件绘制而成的矢量图标
+- 草莓图标库使用 [Adobe Illustrator](http://www.adobe.com/cn/products/illustrator.html) 丨 [Sketch](https://www.sketchapp.com/) 设计软件绘制而成的矢量图标
 - 草莓图标库使用 [IcoMoon App](https://icomoon.io/#app-features) 构建css和font文件。
 
 ## 开源协议
