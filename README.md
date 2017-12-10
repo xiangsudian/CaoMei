@@ -21,7 +21,7 @@
 - 草莓图标库使用 [Adobe Illustrator](http://www.adobe.com/cn/products/illustrator.html) / [Sketch](https://www.sketchapp.com/) 设计软件绘制而成的矢量图标
 - 草莓图标库使用 [IcoMoon App](https://icomoon.io/#app-features) 构建css和font文件。
 
-## License
+## 开源协议
 
 - 草莓图标库中的字体遵循 [SIL OFL 1.1](http://scripts.sil.org/OFL) 协议
 - 草莓图标库中的 css 遵循 [MIT](https://opensource.org/licenses/mit-license.html) 协议
@@ -29,7 +29,7 @@
 
 ## 图标更新
 
-品牌图标：草莓图标库中的所有品牌标志均为其各自所有者的商标。
+- 品牌图标：草莓图标库中的所有品牌标志均为其各自所有者的商标。
 请勿将品牌图标用于除了代表该品牌或服务之外的目的。
 
 ### 草莓1.2.8更新日志
