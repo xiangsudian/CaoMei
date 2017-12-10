@@ -12,14 +12,14 @@
 
 1. 将整个草莓图标库的目录复制到你的项目中 
 2. 在 `<head>` 标签中添加 `<link rel="stylesheet" href="path/to/style.css">` 
-3. 在需要图标的地方添加对应 `class` 的 `<i>` 即可，已书籍图标为例，`<i class="czs-book"></i>` 即可
+3. 在需要图标的地方添加对应 `class` 的 `<i>` 即可，已书籍图标为例：`<i class="czs-book"></i>`
 
-查看所有图标（图形和名字）[草莓图标官网](http://chuangzaoshi.com/icon/)。
+- 查看所有图标（图形和名字）[草莓图标官网](http://chuangzaoshi.com/icon/)
 
 ## 设计开发
 
 - 草莓图标库使用 [Adobe Illustrator](http://www.adobe.com/cn/products/illustrator.html) 丨 [Sketch](https://www.sketchapp.com/) 设计软件绘制而成的矢量图标
-- 草莓图标库使用 [IcoMoon App](https://icomoon.io/#app-features) 构建css和font文件。
+- 草莓图标库使用 [IcoMoon App](https://icomoon.io/#app-features) 构建css和font文件
 
 ## 开源协议
 
@@ -29,8 +29,8 @@
 
 ## 图标更新
 
-- 品牌图标：草莓图标库中的所有品牌标志均为其各自所有者的商标。
-请勿将品牌图标用于除了代表该品牌或服务之外的目的。
+- 品牌图标 丨 图标库中的品牌标志均为其各自所有者的商标，
+请勿将品牌图标用于除了代表该品牌或服务之外的目的
 
 ### 草莓1.2.8更新日志
 ![v1.2.8](http://ww2.sinaimg.cn/large/0060lm7Tly1fkbtqqy6hhj30ww04rwej.jpg)
@@ -46,10 +46,10 @@
 ![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fhqjsr8yo0j30x607h3yl.jpg)
 - 优化：[cup] [cup-l]
 - 新增：[clock] [clock-l] [read] [read-l] [calculator] [calculator-l] [bluetooth] [bluetooth-l] [briefcase] [briefcase-l] [coin] [coin-l] [bitcoin] [money] [eye] [code-fork] [code-branch] [quote-left]  手势：[hand-bevel] [hand-slide] [hand-gather] [hande-vertical] [hand-Horizontal] [hand-button] [hand-touch] [hand-pointer] [hand-grasp] [hand-stop] 
-- 完善：官网16px和32px图标大小视觉切换！
+- 完善：官网16px和32px图标大小视觉切换
 
 ### 草莓1.0.1更新日志
 ![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fhqjsrfk2zj30x7055mx3.jpg)
 - 优化：[chemistry] [chemistry-l] [bug] [message-l] [tmall] [talk] [talk-l] [bilibili] [menu-l] [pengyouquan]
 - 新增：[bug-l] [message] [save-l] [camera] [layout-grids] [category-l] [location] [command-l] [command]
-- 修复：纠正1.0.0命名错误！
+- 修复：纠正1.0.0命名错误
