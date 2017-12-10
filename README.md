@@ -1,6 +1,6 @@
 ![enter image description here](http://chuangzaoshi.com/icon/caomeibanner.png)
 
-## [草莓图标库](http://chuangzaoshi.com/icon/)
+## [🍓草莓图标库](http://chuangzaoshi.com/icon/)
 
 为开发者设计的一套免费开源图标库
 
@@ -16,8 +16,9 @@
 
 查看所有图标（图形和名字）[草莓图标官网](http://chuangzaoshi.com/icon/)。
 
-## 开发
+## 设计开发
 
+草莓图标库使用 Adobe Illustrator/Sketch 设计软件绘制而成的矢量图标
 草莓图标库使用 [IcoMoon App](https://icomoon.io/#app-features) 构建css和font文件。
 
 ## License
