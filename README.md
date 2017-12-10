@@ -18,7 +18,7 @@
 
 ## 设计开发
 
-- 草莓图标库使用 [Adobe Illustrator](http://www.adobe.com/cn/products/illustrator.html) 丨 [Sketch](https://www.sketchapp.com/) 设计软件绘制而成的矢量图标
+- 草莓图标库使用 [Adobe Illustrator](http://www.adobe.com/cn/products/illustrator.html) 丨 [Sketch](https://www.sketchapp.com/) 矢量设计软件绘制而成
 - 草莓图标库使用 [IcoMoon App](https://icomoon.io/#app-features) 构建css和font文件
 
 ## 开源协议
