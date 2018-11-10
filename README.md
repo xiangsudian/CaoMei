@@ -1,5 +1,4 @@
 ![enter image description here](http://chuangzaoshi.com/icon/caomeibanner.png)
-
 🎁 草莓2.0 将计划更新一波！请各位提交需求比较多具有代表性图标名！我来画，谢谢
 
 ## [🍓草莓图标库](http://chuangzaoshi.com/icon/)
