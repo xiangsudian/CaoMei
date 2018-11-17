@@ -32,7 +32,7 @@
 
 ## 第三方开发者
 
-- Atom编辑器 丨 [草莓图标插件](https://atom.io/packages/atom-autocomplete-caomei) 
+- Atom编辑器 丨 [草莓图标自动补全插件](https://atom.io/packages/atom-autocomplete-caomei) 
 
 ## 图标更新
 
