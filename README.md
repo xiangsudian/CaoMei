@@ -2,6 +2,7 @@
 
 🎁 草莓2.0 将计划更新一波！请各位提交需求比较多具有代表性图标名！我来画，谢谢
 
+
 ## [🍓草莓图标库](http://chuangzaoshi.com/icon/)
 
 为开发者设计的一套免费开源图标库
@@ -28,6 +29,10 @@
 - 草莓图标库中的字体遵循 [SIL OFL 1.1](http://scripts.sil.org/OFL) 协议
 - 草莓图标库中的 css 遵循 [MIT](https://opensource.org/licenses/mit-license.html) 协议
 - 草莓图标库中的文档遵循 [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) 协议
+
+## 第三方开发者
+
+- Atom编辑器 丨 [草莓图标插件](https://atom.io/packages/atom-autocomplete-caomei) 
 
 ## 图标更新
 
