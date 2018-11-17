@@ -2,7 +2,7 @@
 
 🎁 草莓2.0 将计划更新一波！请各位提交需求比较多具有代表性图标名！我来画，谢谢
 
-Atom编辑器 丨 [草莓图标预览&自动补全插件](https://atom.io/packages/atom-autocomplete-caomei)  作者：linjialiang
+- Atom编辑器 丨 [草莓图标预览&自动补全插件](https://atom.io/packages/atom-autocomplete-caomei)  第三方作者：linjialiang
 
 ## [🍓草莓图标库](http://chuangzaoshi.com/icon/)
 
