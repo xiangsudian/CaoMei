@@ -1,6 +1,7 @@
 ![enter image description here](http://chuangzaoshi.com/icon/caomeibanner.png)
 
 🎁 草莓图标库PRO -- 
+
 公告：几乎每个图标都是本人亲自绘制，既需要耐心同时也要耗时耗力。为劳动成果能够得到尊重，项目能够得到长期的设计源动力和维护力。新Pro图标库为付费赞赏模式，一次付费永久使用。感谢理解和支持。免费和开源的版本依然可以使用V1.28版，无任何影响。
 
 
@@ -39,6 +40,9 @@
 
 - 品牌图标 丨 图标库中的品牌标志均为其各自所有者的商标，
 请勿将品牌图标用于除了代表该品牌或服务之外的目的
+
+### 草莓Pro更新日志
+![pro](https://i.v2ex.co/qNtQzZ66.png)
 
 ### 草莓1.2.8更新日志
 ![v1.2.8](http://ww2.sinaimg.cn/large/0060lm7Tly1fkbtqqy6hhj30ww04rwej.jpg)
