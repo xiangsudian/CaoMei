@@ -1,6 +1,7 @@
 ![enter image description here](http://chuangzaoshi.com/icon/caomeibanner.png)
 
-🎁 草莓2.0 将计划更新一波！请各位提交需求比较多具有代表性图标名！
+🎁 草莓图标库PRO -- 
+公告：几乎每个图标都是本人亲自绘制，既需要耐心同时也要耗时耗力。为劳动成果能够得到尊重，项目能够得到长期的设计源动力和维护力。新Pro图标库为付费赞赏模式，一次付费永久使用。感谢理解和支持。免费和开源的版本依然可以使用V1.28版，无任何影响。
 
 
 ## [🍓草莓图标库](http://chuangzaoshi.com/icon/)
