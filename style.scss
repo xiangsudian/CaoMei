@@ -1,0 +1,1939 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?83lfek');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?83lfek#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?83lfek') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?83lfek') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?83lfek##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="czs-"], [class*=" czs-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.czs-about {
+  &:before {
+    content: $czs-about; 
+  }
+}
+.czs-about-l {
+  &:before {
+    content: $czs-about-l; 
+  }
+}
+.czs-add {
+  &:before {
+    content: $czs-add; 
+  }
+}
+.czs-airplane {
+  &:before {
+    content: $czs-airplane; 
+  }
+}
+.czs-airplane-l {
+  &:before {
+    content: $czs-airplane-l; 
+  }
+}
+.czs-alipay {
+  &:before {
+    content: $czs-alipay; 
+  }
+}
+.czs-analysis {
+  &:before {
+    content: $czs-analysis; 
+  }
+}
+.czs-android {
+  &:before {
+    content: $czs-android; 
+  }
+}
+.czs-angle-down-l {
+  &:before {
+    content: $czs-angle-down-l; 
+  }
+}
+.czs-angle-left-l {
+  &:before {
+    content: $czs-angle-left-l; 
+  }
+}
+.czs-angle-right-l {
+  &:before {
+    content: $czs-angle-right-l; 
+  }
+}
+.czs-angle-up-l {
+  &:before {
+    content: $czs-angle-up-l; 
+  }
+}
+.czs-apple {
+  &:before {
+    content: $czs-apple; 
+  }
+}
+.czs-arrow-down-l {
+  &:before {
+    content: $czs-arrow-down-l; 
+  }
+}
+.czs-arrow-up-l {
+  &:before {
+    content: $czs-arrow-up-l; 
+  }
+}
+.czs-baiduwangpan {
+  &:before {
+    content: $czs-baiduwangpan; 
+  }
+}
+.czs-bar-chart {
+  &:before {
+    content: $czs-bar-chart; 
+  }
+}
+.czs-bar-chart-l {
+  &:before {
+    content: $czs-bar-chart-l; 
+  }
+}
+.czs-battery {
+  &:before {
+    content: $czs-battery; 
+  }
+}
+.czs-battery-l {
+  &:before {
+    content: $czs-battery-l; 
+  }
+}
+.czs-bell {
+  &:before {
+    content: $czs-bell; 
+  }
+}
+.czs-bell-l {
+  &:before {
+    content: $czs-bell-l; 
+  }
+}
+.czs-bevel {
+  &:before {
+    content: $czs-bevel; 
+  }
+}
+.czs-bilibili {
+  &:before {
+    content: $czs-bilibili; 
+  }
+}
+.czs-bitcoin {
+  &:before {
+    content: $czs-bitcoin; 
+  }
+}
+.czs-blackboard {
+  &:before {
+    content: $czs-blackboard; 
+  }
+}
+.czs-blackboard-l {
+  &:before {
+    content: $czs-blackboard-l; 
+  }
+}
+.czs-block {
+  &:before {
+    content: $czs-block; 
+  }
+}
+.czs-block-l {
+  &:before {
+    content: $czs-block-l; 
+  }
+}
+.czs-bluetooth {
+  &:before {
+    content: $czs-bluetooth; 
+  }
+}
+.czs-bluetooth-l {
+  &:before {
+    content: $czs-bluetooth-l; 
+  }
+}
+.czs-board {
+  &:before {
+    content: $czs-board; 
+  }
+}
+.czs-board-l {
+  &:before {
+    content: $czs-board-l; 
+  }
+}
+.czs-book {
+  &:before {
+    content: $czs-book; 
+  }
+}
+.czs-book-l {
+  &:before {
+    content: $czs-book-l; 
+  }
+}
+.czs-bookmark {
+  &:before {
+    content: $czs-bookmark; 
+  }
+}
+.czs-bookmark-l {
+  &:before {
+    content: $czs-bookmark-l; 
+  }
+}
+.czs-box {
+  &:before {
+    content: $czs-box; 
+  }
+}
+.czs-box-l {
+  &:before {
+    content: $czs-box-l; 
+  }
+}
+.czs-briefcase {
+  &:before {
+    content: $czs-briefcase; 
+  }
+}
+.czs-briefcase-l {
+  &:before {
+    content: $czs-briefcase-l; 
+  }
+}
+.czs-brush {
+  &:before {
+    content: $czs-brush; 
+  }
+}
+.czs-brush-l {
+  &:before {
+    content: $czs-brush-l; 
+  }
+}
+.czs-bug {
+  &:before {
+    content: $czs-bug; 
+  }
+}
+.czs-bug-l {
+  &:before {
+    content: $czs-bug-l; 
+  }
+}
+.czs-building {
+  &:before {
+    content: $czs-building; 
+  }
+}
+.czs-building-l {
+  &:before {
+    content: $czs-building-l; 
+  }
+}
+.czs-buy {
+  &:before {
+    content: $czs-buy; 
+  }
+}
+.czs-buy-l {
+  &:before {
+    content: $czs-buy-l; 
+  }
+}
+.czs-calculator {
+  &:before {
+    content: $czs-calculator; 
+  }
+}
+.czs-calculator-l {
+  &:before {
+    content: $czs-calculator-l; 
+  }
+}
+.czs-calendar {
+  &:before {
+    content: $czs-calendar; 
+  }
+}
+.czs-calendar-l {
+  &:before {
+    content: $czs-calendar-l; 
+  }
+}
+.czs-camber {
+  &:before {
+    content: $czs-camber; 
+  }
+}
+.czs-camber-l {
+  &:before {
+    content: $czs-camber-l; 
+  }
+}
+.czs-camber-o {
+  &:before {
+    content: $czs-camber-o; 
+  }
+}
+.czs-camera {
+  &:before {
+    content: $czs-camera; 
+  }
+}
+.czs-camera-l {
+  &:before {
+    content: $czs-camera-l; 
+  }
+}
+.czs-category-l {
+  &:before {
+    content: $czs-category-l; 
+  }
+}
+.czs-certificate {
+  &:before {
+    content: $czs-certificate; 
+  }
+}
+.czs-certificate-l {
+  &:before {
+    content: $czs-certificate-l; 
+  }
+}
+.czs-chemistry {
+  &:before {
+    content: $czs-chemistry; 
+  }
+}
+.czs-chemistry-l {
+  &:before {
+    content: $czs-chemistry-l; 
+  }
+}
+.czs-choose-list-l {
+  &:before {
+    content: $czs-choose-list-l; 
+  }
+}
+.czs-chrome {
+  &:before {
+    content: $czs-chrome; 
+  }
+}
+.czs-circle {
+  &:before {
+    content: $czs-circle; 
+  }
+}
+.czs-circle-l {
+  &:before {
+    content: $czs-circle-l; 
+  }
+}
+.czs-circle-o {
+  &:before {
+    content: $czs-circle-o; 
+  }
+}
+.czs-clip-l {
+  &:before {
+    content: $czs-clip-l; 
+  }
+}
+.czs-clock {
+  &:before {
+    content: $czs-clock; 
+  }
+}
+.czs-clock-l {
+  &:before {
+    content: $czs-clock-l; 
+  }
+}
+.czs-close-l {
+  &:before {
+    content: $czs-close-l; 
+  }
+}
+.czs-clothes {
+  &:before {
+    content: $czs-clothes; 
+  }
+}
+.czs-clothes-l {
+  &:before {
+    content: $czs-clothes-l; 
+  }
+}
+.czs-cloud {
+  &:before {
+    content: $czs-cloud; 
+  }
+}
+.czs-cloud-download-l {
+  &:before {
+    content: $czs-cloud-download-l; 
+  }
+}
+.czs-cloud-l {
+  &:before {
+    content: $czs-cloud-l; 
+  }
+}
+.czs-cloud-upload-l {
+  &:before {
+    content: $czs-cloud-upload-l; 
+  }
+}
+.czs-code-branch {
+  &:before {
+    content: $czs-code-branch; 
+  }
+}
+.czs-code-file {
+  &:before {
+    content: $czs-code-file; 
+  }
+}
+.czs-code-file-l {
+  &:before {
+    content: $czs-code-file-l; 
+  }
+}
+.czs-code-fork {
+  &:before {
+    content: $czs-code-fork; 
+  }
+}
+.czs-code-l {
+  &:before {
+    content: $czs-code-l; 
+  }
+}
+.czs-coin {
+  &:before {
+    content: $czs-coin; 
+  }
+}
+.czs-coin-l {
+  &:before {
+    content: $czs-coin-l; 
+  }
+}
+.czs-collection {
+  &:before {
+    content: $czs-collection; 
+  }
+}
+.czs-come-l {
+  &:before {
+    content: $czs-come-l; 
+  }
+}
+.czs-command {
+  &:before {
+    content: $czs-command; 
+  }
+}
+.czs-command-l {
+  &:before {
+    content: $czs-command-l; 
+  }
+}
+.czs-commed2 {
+  &:before {
+    content: $czs-commed2; 
+  }
+}
+.czs-commed2-l {
+  &:before {
+    content: $czs-commed2-l; 
+  }
+}
+.czs-comment {
+  &:before {
+    content: $czs-comment; 
+  }
+}
+.czs-comment-l {
+  &:before {
+    content: $czs-comment-l; 
+  }
+}
+.czs-computer {
+  &:before {
+    content: $czs-computer; 
+  }
+}
+.czs-computer-l {
+  &:before {
+    content: $czs-computer-l; 
+  }
+}
+.czs-configuration {
+  &:before {
+    content: $czs-configuration; 
+  }
+}
+.czs-configuration-l {
+  &:before {
+    content: $czs-configuration-l; 
+  }
+}
+.czs-control {
+  &:before {
+    content: $czs-control; 
+  }
+}
+.czs-control-rank {
+  &:before {
+    content: $czs-control-rank; 
+  }
+}
+.czs-credit-card {
+  &:before {
+    content: $czs-credit-card; 
+  }
+}
+.czs-credit-card-l {
+  &:before {
+    content: $czs-credit-card-l; 
+  }
+}
+.czs-crown {
+  &:before {
+    content: $czs-crown; 
+  }
+}
+.czs-crown-l {
+  &:before {
+    content: $czs-crown-l; 
+  }
+}
+.czs-css3 {
+  &:before {
+    content: $czs-css3; 
+  }
+}
+.czs-cup {
+  &:before {
+    content: $czs-cup; 
+  }
+}
+.czs-cup-l {
+  &:before {
+    content: $czs-cup-l; 
+  }
+}
+.czs-dashboard {
+  &:before {
+    content: $czs-dashboard; 
+  }
+}
+.czs-dashboard-l {
+  &:before {
+    content: $czs-dashboard-l; 
+  }
+}
+.czs-diamond {
+  &:before {
+    content: $czs-diamond; 
+  }
+}
+.czs-diamond-l {
+  &:before {
+    content: $czs-diamond-l; 
+  }
+}
+.czs-doc-edit {
+  &:before {
+    content: $czs-doc-edit; 
+  }
+}
+.czs-doc-edit-l {
+  &:before {
+    content: $czs-doc-edit-l; 
+  }
+}
+.czs-doc-file {
+  &:before {
+    content: $czs-doc-file; 
+  }
+}
+.czs-doc-file-l {
+  &:before {
+    content: $czs-doc-file-l; 
+  }
+}
+.czs-download-l {
+  &:before {
+    content: $czs-download-l; 
+  }
+}
+.czs-dribbble {
+  &:before {
+    content: $czs-dribbble; 
+  }
+}
+.czs-dropbox {
+  &:before {
+    content: $czs-dropbox; 
+  }
+}
+.czs-earth {
+  &:before {
+    content: $czs-earth; 
+  }
+}
+.czs-earth-l {
+  &:before {
+    content: $czs-earth-l; 
+  }
+}
+.czs-eye {
+  &:before {
+    content: $czs-eye; 
+  }
+}
+.czs-eye-l {
+  &:before {
+    content: $czs-eye-l; 
+  }
+}
+.czs-face {
+  &:before {
+    content: $czs-face; 
+  }
+}
+.czs-facebook {
+  &:before {
+    content: $czs-facebook; 
+  }
+}
+.czs-face-l {
+  &:before {
+    content: $czs-face-l; 
+  }
+}
+.czs-file {
+  &:before {
+    content: $czs-file; 
+  }
+}
+.czs-file-l {
+  &:before {
+    content: $czs-file-l; 
+  }
+}
+.czs-film {
+  &:before {
+    content: $czs-film; 
+  }
+}
+.czs-film-l {
+  &:before {
+    content: $czs-film-l; 
+  }
+}
+.czs-fire-l {
+  &:before {
+    content: $czs-fire-l; 
+  }
+}
+.czs-firewall {
+  &:before {
+    content: $czs-firewall; 
+  }
+}
+.czs-firewall-l {
+  &:before {
+    content: $czs-firewall-l; 
+  }
+}
+.czs-folder {
+  &:before {
+    content: $czs-folder; 
+  }
+}
+.czs-folder-l {
+  &:before {
+    content: $czs-folder-l; 
+  }
+}
+.czs-forum {
+  &:before {
+    content: $czs-forum; 
+  }
+}
+.czs-forum-l {
+  &:before {
+    content: $czs-forum-l; 
+  }
+}
+.czs-game {
+  &:before {
+    content: $czs-game; 
+  }
+}
+.czs-game-l {
+  &:before {
+    content: $czs-game-l; 
+  }
+}
+.czs-gift {
+  &:before {
+    content: $czs-gift; 
+  }
+}
+.czs-gift-l {
+  &:before {
+    content: $czs-gift-l; 
+  }
+}
+.czs-github {
+  &:before {
+    content: $czs-github; 
+  }
+}
+.czs-github-logo {
+  &:before {
+    content: $czs-github-logo; 
+  }
+}
+.czs-Google {
+  &:before {
+    content: $czs-Google; 
+  }
+}
+.czs-greatwall {
+  &:before {
+    content: $czs-greatwall; 
+  }
+}
+.czs-hacker {
+  &:before {
+    content: $czs-hacker; 
+  }
+}
+.czs-hacker-l {
+  &:before {
+    content: $czs-hacker-l; 
+  }
+}
+.czs-hammer {
+  &:before {
+    content: $czs-hammer; 
+  }
+}
+.czs-hammer-l {
+  &:before {
+    content: $czs-hammer-l; 
+  }
+}
+.czs-hand-bevel {
+  &:before {
+    content: $czs-hand-bevel; 
+  }
+}
+.czs-hand-button {
+  &:before {
+    content: $czs-hand-button; 
+  }
+}
+.czs-hande-vertical {
+  &:before {
+    content: $czs-hande-vertical; 
+  }
+}
+.czs-hand-gather {
+  &:before {
+    content: $czs-hand-gather; 
+  }
+}
+.czs-hand-grasp {
+  &:before {
+    content: $czs-hand-grasp; 
+  }
+}
+.czs-hand-horizontal {
+  &:before {
+    content: $czs-hand-horizontal; 
+  }
+}
+.czs-hand-pointer {
+  &:before {
+    content: $czs-hand-pointer; 
+  }
+}
+.czs-hand-slide {
+  &:before {
+    content: $czs-hand-slide; 
+  }
+}
+.czs-hand-stop {
+  &:before {
+    content: $czs-hand-stop; 
+  }
+}
+.czs-hand-touch {
+  &:before {
+    content: $czs-hand-touch; 
+  }
+}
+.czs-hdmi {
+  &:before {
+    content: $czs-hdmi; 
+  }
+}
+.czs-hdmi-l {
+  &:before {
+    content: $czs-hdmi-l; 
+  }
+}
+.czs-headset {
+  &:before {
+    content: $czs-headset; 
+  }
+}
+.czs-headset-l {
+  &:before {
+    content: $czs-headset-l; 
+  }
+}
+.czs-heart {
+  &:before {
+    content: $czs-heart; 
+  }
+}
+.czs-heart-l {
+  &:before {
+    content: $czs-heart-l; 
+  }
+}
+.czs-home {
+  &:before {
+    content: $czs-home; 
+  }
+}
+.czs-home-l {
+  &:before {
+    content: $czs-home-l; 
+  }
+}
+.czs-html5 {
+  &:before {
+    content: $czs-html5; 
+  }
+}
+.czs-image {
+  &:before {
+    content: $czs-image; 
+  }
+}
+.czs-image-l {
+  &:before {
+    content: $czs-image-l; 
+  }
+}
+.czs-inbox {
+  &:before {
+    content: $czs-inbox; 
+  }
+}
+.czs-inbox-l {
+  &:before {
+    content: $czs-inbox-l; 
+  }
+}
+.czs-Instagram {
+  &:before {
+    content: $czs-Instagram; 
+  }
+}
+.czs-key {
+  &:before {
+    content: $czs-key; 
+  }
+}
+.czs-keyboard {
+  &:before {
+    content: $czs-keyboard; 
+  }
+}
+.czs-keyboard-l {
+  &:before {
+    content: $czs-keyboard-l; 
+  }
+}
+.czs-key-l {
+  &:before {
+    content: $czs-key-l; 
+  }
+}
+.czs-label-info {
+  &:before {
+    content: $czs-label-info; 
+  }
+}
+.czs-label-info-l {
+  &:before {
+    content: $czs-label-info-l; 
+  }
+}
+.czs-laptop {
+  &:before {
+    content: $czs-laptop; 
+  }
+}
+.czs-laptop-l {
+  &:before {
+    content: $czs-laptop-l; 
+  }
+}
+.czs-layers {
+  &:before {
+    content: $czs-layers; 
+  }
+}
+.czs-layout-grid {
+  &:before {
+    content: $czs-layout-grid; 
+  }
+}
+.czs-layout-grids {
+  &:before {
+    content: $czs-layout-grids; 
+  }
+}
+.czs-layout-list {
+  &:before {
+    content: $czs-layout-list; 
+  }
+}
+.czs-light {
+  &:before {
+    content: $czs-light; 
+  }
+}
+.czs-light-flash-l {
+  &:before {
+    content: $czs-light-flash-l; 
+  }
+}
+.czs-light-l {
+  &:before {
+    content: $czs-light-l; 
+  }
+}
+.czs-lightning {
+  &:before {
+    content: $czs-lightning; 
+  }
+}
+.czs-lightning-l {
+  &:before {
+    content: $czs-lightning-l; 
+  }
+}
+.czs-link-l {
+  &:before {
+    content: $czs-link-l; 
+  }
+}
+.czs-linux {
+  &:before {
+    content: $czs-linux; 
+  }
+}
+.czs-list-clipboard {
+  &:before {
+    content: $czs-list-clipboard; 
+  }
+}
+.czs-list-clipboard-l {
+  &:before {
+    content: $czs-list-clipboard-l; 
+  }
+}
+.czs-location {
+  &:before {
+    content: $czs-location; 
+  }
+}
+.czs-location-l {
+  &:before {
+    content: $czs-location-l; 
+  }
+}
+.czs-lock {
+  &:before {
+    content: $czs-lock; 
+  }
+}
+.czs-lock-l {
+  &:before {
+    content: $czs-lock-l; 
+  }
+}
+.czs-map {
+  &:before {
+    content: $czs-map; 
+  }
+}
+.czs-map-l {
+  &:before {
+    content: $czs-map-l; 
+  }
+}
+.czs-medal {
+  &:before {
+    content: $czs-medal; 
+  }
+}
+.czs-medal-l {
+  &:before {
+    content: $czs-medal-l; 
+  }
+}
+.czs-menu-l {
+  &:before {
+    content: $czs-menu-l; 
+  }
+}
+.czs-message {
+  &:before {
+    content: $czs-message; 
+  }
+}
+.czs-message-l {
+  &:before {
+    content: $czs-message-l; 
+  }
+}
+.czs-microchip {
+  &:before {
+    content: $czs-microchip; 
+  }
+}
+.czs-microchip-l {
+  &:before {
+    content: $czs-microchip-l; 
+  }
+}
+.czs-microphone {
+  &:before {
+    content: $czs-microphone; 
+  }
+}
+.czs-microphone-l {
+  &:before {
+    content: $czs-microphone-l; 
+  }
+}
+.czs-microsoft {
+  &:before {
+    content: $czs-microsoft; 
+  }
+}
+.czs-mobile {
+  &:before {
+    content: $czs-mobile; 
+  }
+}
+.czs-mobile-l {
+  &:before {
+    content: $czs-mobile-l; 
+  }
+}
+.czs-moments {
+  &:before {
+    content: $czs-moments; 
+  }
+}
+.czs-money {
+  &:before {
+    content: $czs-money; 
+  }
+}
+.czs-moon {
+  &:before {
+    content: $czs-moon; 
+  }
+}
+.czs-moon-l {
+  &:before {
+    content: $czs-moon-l; 
+  }
+}
+.czs-more {
+  &:before {
+    content: $czs-more; 
+  }
+}
+.czs-mouse {
+  &:before {
+    content: $czs-mouse; 
+  }
+}
+.czs-mouse-l {
+  &:before {
+    content: $czs-mouse-l; 
+  }
+}
+.czs-music {
+  &:before {
+    content: $czs-music; 
+  }
+}
+.czs-music-file {
+  &:before {
+    content: $czs-music-file; 
+  }
+}
+.czs-music-file-l {
+  &:before {
+    content: $czs-music-file-l; 
+  }
+}
+.czs-music-l {
+  &:before {
+    content: $czs-music-l; 
+  }
+}
+.czs-music-note {
+  &:before {
+    content: $czs-music-note; 
+  }
+}
+.czs-music-note-l {
+  &:before {
+    content: $czs-music-note-l; 
+  }
+}
+.czs-nail {
+  &:before {
+    content: $czs-nail; 
+  }
+}
+.czs-nail-l {
+  &:before {
+    content: $czs-nail-l; 
+  }
+}
+.czs-network {
+  &:before {
+    content: $czs-network; 
+  }
+}
+.czs-network-l {
+  &:before {
+    content: $czs-network-l; 
+  }
+}
+.czs-new {
+  &:before {
+    content: $czs-new; 
+  }
+}
+.czs-new-l {
+  &:before {
+    content: $czs-new-l; 
+  }
+}
+.czs-newspaper {
+  &:before {
+    content: $czs-newspaper; 
+  }
+}
+.czs-newspaper-l {
+  &:before {
+    content: $czs-newspaper-l; 
+  }
+}
+.czs-operation {
+  &:before {
+    content: $czs-operation; 
+  }
+}
+.czs-operation-l {
+  &:before {
+    content: $czs-operation-l; 
+  }
+}
+.czs-out-l {
+  &:before {
+    content: $czs-out-l; 
+  }
+}
+.czs-pad {
+  &:before {
+    content: $czs-pad; 
+  }
+}
+.czs-pad-l {
+  &:before {
+    content: $czs-pad-l; 
+  }
+}
+.czs-paper {
+  &:before {
+    content: $czs-paper; 
+  }
+}
+.czs-paper-l {
+  &:before {
+    content: $czs-paper-l; 
+  }
+}
+.czs-paper-plane {
+  &:before {
+    content: $czs-paper-plane; 
+  }
+}
+.czs-paper-plane-l {
+  &:before {
+    content: $czs-paper-plane-l; 
+  }
+}
+.czs-pause-l {
+  &:before {
+    content: $czs-pause-l; 
+  }
+}
+.czs-paypal {
+  &:before {
+    content: $czs-paypal; 
+  }
+}
+.czs-pen {
+  &:before {
+    content: $czs-pen; 
+  }
+}
+.czs-pen-write {
+  &:before {
+    content: $czs-pen-write; 
+  }
+}
+.czs-people {
+  &:before {
+    content: $czs-people; 
+  }
+}
+.czs-phone {
+  &:before {
+    content: $czs-phone; 
+  }
+}
+.czs-phone-l {
+  &:before {
+    content: $czs-phone-l; 
+  }
+}
+.czs-pinterest {
+  &:before {
+    content: $czs-pinterest; 
+  }
+}
+.czs-play-l {
+  &:before {
+    content: $czs-play-l; 
+  }
+}
+.czs-plugin {
+  &:before {
+    content: $czs-plugin; 
+  }
+}
+.czs-pokemon-ball {
+  &:before {
+    content: $czs-pokemon-ball; 
+  }
+}
+.czs-port {
+  &:before {
+    content: $czs-port; 
+  }
+}
+.czs-port-l {
+  &:before {
+    content: $czs-port-l; 
+  }
+}
+.czs-printer {
+  &:before {
+    content: $czs-printer; 
+  }
+}
+.czs-printer-l {
+  &:before {
+    content: $czs-printer-l; 
+  }
+}
+.czs-product {
+  &:before {
+    content: $czs-product; 
+  }
+}
+.czs-program {
+  &:before {
+    content: $czs-program; 
+  }
+}
+.czs-program-l {
+  &:before {
+    content: $czs-program-l; 
+  }
+}
+.czs-qq {
+  &:before {
+    content: $czs-qq; 
+  }
+}
+.czs-qrcode-l {
+  &:before {
+    content: $czs-qrcode-l; 
+  }
+}
+.czs-quote-left {
+  &:before {
+    content: $czs-quote-left; 
+  }
+}
+.czs-quote-right {
+  &:before {
+    content: $czs-quote-right; 
+  }
+}
+.czs-qzone {
+  &:before {
+    content: $czs-qzone; 
+  }
+}
+.czs-raspberry {
+  &:before {
+    content: $czs-raspberry; 
+  }
+}
+.czs-raspberry-l {
+  &:before {
+    content: $czs-raspberry-l; 
+  }
+}
+.czs-read {
+  &:before {
+    content: $czs-read; 
+  }
+}
+.czs-read-l {
+  &:before {
+    content: $czs-read-l; 
+  }
+}
+.czs-red-envelope {
+  &:before {
+    content: $czs-red-envelope; 
+  }
+}
+.czs-renew {
+  &:before {
+    content: $czs-renew; 
+  }
+}
+.czs-right-clipboard {
+  &:before {
+    content: $czs-right-clipboard; 
+  }
+}
+.czs-right-clipboard-l {
+  &:before {
+    content: $czs-right-clipboard-l; 
+  }
+}
+.czs-robot {
+  &:before {
+    content: $czs-robot; 
+  }
+}
+.czs-robot2 {
+  &:before {
+    content: $czs-robot2; 
+  }
+}
+.czs-robot2-l {
+  &:before {
+    content: $czs-robot2-l; 
+  }
+}
+.czs-robot-l {
+  &:before {
+    content: $czs-robot-l; 
+  }
+}
+.czs-rocket {
+  &:before {
+    content: $czs-rocket; 
+  }
+}
+.czs-rocket-l {
+  &:before {
+    content: $czs-rocket-l; 
+  }
+}
+.czs-rollerbrush {
+  &:before {
+    content: $czs-rollerbrush; 
+  }
+}
+.czs-rollerbrush-l {
+  &:before {
+    content: $czs-rollerbrush-l; 
+  }
+}
+.czs-router {
+  &:before {
+    content: $czs-router; 
+  }
+}
+.czs-router-l {
+  &:before {
+    content: $czs-router-l; 
+  }
+}
+.czs-rss {
+  &:before {
+    content: $czs-rss; 
+  }
+}
+.czs-ruler {
+  &:before {
+    content: $czs-ruler; 
+  }
+}
+.czs-ruler-l {
+  &:before {
+    content: $czs-ruler-l; 
+  }
+}
+.czs-save {
+  &:before {
+    content: $czs-save; 
+  }
+}
+.czs-save-l {
+  &:before {
+    content: $czs-save-l; 
+  }
+}
+.czs-scan-l {
+  &:before {
+    content: $czs-scan-l; 
+  }
+}
+.czs-scissors {
+  &:before {
+    content: $czs-scissors; 
+  }
+}
+.czs-sdcard {
+  &:before {
+    content: $czs-sdcard; 
+  }
+}
+.czs-sdcard-l {
+  &:before {
+    content: $czs-sdcard-l; 
+  }
+}
+.czs-search-l {
+  &:before {
+    content: $czs-search-l; 
+  }
+}
+.czs-server {
+  &:before {
+    content: $czs-server; 
+  }
+}
+.czs-server-l {
+  &:before {
+    content: $czs-server-l; 
+  }
+}
+.czs-servers {
+  &:before {
+    content: $czs-servers; 
+  }
+}
+.czs-setting {
+  &:before {
+    content: $czs-setting; 
+  }
+}
+.czs-setting-l {
+  &:before {
+    content: $czs-setting-l; 
+  }
+}
+.czs-share {
+  &:before {
+    content: $czs-share; 
+  }
+}
+.czs-shield {
+  &:before {
+    content: $czs-shield; 
+  }
+}
+.czs-shield-l {
+  &:before {
+    content: $czs-shield-l; 
+  }
+}
+.czs-shop {
+  &:before {
+    content: $czs-shop; 
+  }
+}
+.czs-shop-l {
+  &:before {
+    content: $czs-shop-l; 
+  }
+}
+.czs-shopping-cart {
+  &:before {
+    content: $czs-shopping-cart; 
+  }
+}
+.czs-shopping-cart-l {
+  &:before {
+    content: $czs-shopping-cart-l; 
+  }
+}
+.czs-site-folder {
+  &:before {
+    content: $czs-site-folder; 
+  }
+}
+.czs-site-folder-l {
+  &:before {
+    content: $czs-site-folder-l; 
+  }
+}
+.czs-slider-l {
+  &:before {
+    content: $czs-slider-l; 
+  }
+}
+.czs-square {
+  &:before {
+    content: $czs-square; 
+  }
+}
+.czs-square-l {
+  &:before {
+    content: $czs-square-l; 
+  }
+}
+.czs-square-o {
+  &:before {
+    content: $czs-square-o; 
+  }
+}
+.czs-star {
+  &:before {
+    content: $czs-star; 
+  }
+}
+.czs-star-l {
+  &:before {
+    content: $czs-star-l; 
+  }
+}
+.czs-steam {
+  &:before {
+    content: $czs-steam; 
+  }
+}
+.czs-storage {
+  &:before {
+    content: $czs-storage; 
+  }
+}
+.czs-storage-l {
+  &:before {
+    content: $czs-storage-l; 
+  }
+}
+.czs-sun {
+  &:before {
+    content: $czs-sun; 
+  }
+}
+.czs-sun-l {
+  &:before {
+    content: $czs-sun-l; 
+  }
+}
+.czs-sword {
+  &:before {
+    content: $czs-sword; 
+  }
+}
+.czs-sword-l {
+  &:before {
+    content: $czs-sword-l; 
+  }
+}
+.czs-tab {
+  &:before {
+    content: $czs-tab; 
+  }
+}
+.czs-tab-l {
+  &:before {
+    content: $czs-tab-l; 
+  }
+}
+.czs-tag {
+  &:before {
+    content: $czs-tag; 
+  }
+}
+.czs-tag-l {
+  &:before {
+    content: $czs-tag-l; 
+  }
+}
+.czs-taiji {
+  &:before {
+    content: $czs-taiji; 
+  }
+}
+.czs-talk {
+  &:before {
+    content: $czs-talk; 
+  }
+}
+.czs-talk-l {
+  &:before {
+    content: $czs-talk-l; 
+  }
+}
+.czs-taobao {
+  &:before {
+    content: $czs-taobao; 
+  }
+}
+.czs-telegram {
+  &:before {
+    content: $czs-telegram; 
+  }
+}
+.czs-text-l {
+  &:before {
+    content: $czs-text-l; 
+  }
+}
+.czs-thumbs-up {
+  &:before {
+    content: $czs-thumbs-up; 
+  }
+}
+.czs-thumbs-up-l {
+  &:before {
+    content: $czs-thumbs-up-l; 
+  }
+}
+.czs-ticket {
+  &:before {
+    content: $czs-ticket; 
+  }
+}
+.czs-ticket-l {
+  &:before {
+    content: $czs-ticket-l; 
+  }
+}
+.czs-time {
+  &:before {
+    content: $czs-time; 
+  }
+}
+.czs-time-l {
+  &:before {
+    content: $czs-time-l; 
+  }
+}
+.czs-tmall {
+  &:before {
+    content: $czs-tmall; 
+  }
+}
+.czs-transmission-l {
+  &:before {
+    content: $czs-transmission-l; 
+  }
+}
+.czs-transport {
+  &:before {
+    content: $czs-transport; 
+  }
+}
+.czs-trash {
+  &:before {
+    content: $czs-trash; 
+  }
+}
+.czs-trash-l {
+  &:before {
+    content: $czs-trash-l; 
+  }
+}
+.czs-triangle {
+  &:before {
+    content: $czs-triangle; 
+  }
+}
+.czs-triangle-l {
+  &:before {
+    content: $czs-triangle-l; 
+  }
+}
+.czs-triangle-o {
+  &:before {
+    content: $czs-triangle-o; 
+  }
+}
+.czs-truck {
+  &:before {
+    content: $czs-truck; 
+  }
+}
+.czs-truck-l {
+  &:before {
+    content: $czs-truck-l; 
+  }
+}
+.czs-tv {
+  &:before {
+    content: $czs-tv; 
+  }
+}
+.czs-tv-l {
+  &:before {
+    content: $czs-tv-l; 
+  }
+}
+.czs-twitter {
+  &:before {
+    content: $czs-twitter; 
+  }
+}
+.czs-upload-l {
+  &:before {
+    content: $czs-upload-l; 
+  }
+}
+.czs-usb {
+  &:before {
+    content: $czs-usb; 
+  }
+}
+.czs-usb-l {
+  &:before {
+    content: $czs-usb-l; 
+  }
+}
+.czs-user {
+  &:before {
+    content: $czs-user; 
+  }
+}
+.czs-user-l {
+  &:before {
+    content: $czs-user-l; 
+  }
+}
+.czs-v2ex {
+  &:before {
+    content: $czs-v2ex; 
+  }
+}
+.czs-video-camera {
+  &:before {
+    content: $czs-video-camera; 
+  }
+}
+.czs-video-camera-l {
+  &:before {
+    content: $czs-video-camera-l; 
+  }
+}
+.czs-video-file {
+  &:before {
+    content: $czs-video-file; 
+  }
+}
+.czs-video-file-l {
+  &:before {
+    content: $czs-video-file-l; 
+  }
+}
+.czs-vimeo {
+  &:before {
+    content: $czs-vimeo; 
+  }
+}
+.czs-volume {
+  &:before {
+    content: $czs-volume; 
+  }
+}
+.czs-volume-l {
+  &:before {
+    content: $czs-volume-l; 
+  }
+}
+.czs-volume-x-l {
+  &:before {
+    content: $czs-volume-x-l; 
+  }
+}
+.czs-warning {
+  &:before {
+    content: $czs-warning; 
+  }
+}
+.czs-warning-l {
+  &:before {
+    content: $czs-warning-l; 
+  }
+}
+.czs-watch {
+  &:before {
+    content: $czs-watch; 
+  }
+}
+.czs-watch-l {
+  &:before {
+    content: $czs-watch-l; 
+  }
+}
+.czs-webcam {
+  &:before {
+    content: $czs-webcam; 
+  }
+}
+.czs-webcam-l {
+  &:before {
+    content: $czs-webcam-l; 
+  }
+}
+.czs-web-edit {
+  &:before {
+    content: $czs-web-edit; 
+  }
+}
+.czs-web-edit-l {
+  &:before {
+    content: $czs-web-edit-l; 
+  }
+}
+.czs-weibo {
+  &:before {
+    content: $czs-weibo; 
+  }
+}
+.czs-weixin {
+  &:before {
+    content: $czs-weixin; 
+  }
+}
+.czs-weixinzhifu {
+  &:before {
+    content: $czs-weixinzhifu; 
+  }
+}
+.czs-wifi {
+  &:before {
+    content: $czs-wifi; 
+  }
+}
+.czs-wordpress {
+  &:before {
+    content: $czs-wordpress; 
+  }
+}
+.czs-wrench {
+  &:before {
+    content: $czs-wrench; 
+  }
+}
+.czs-wrench-l {
+  &:before {
+    content: $czs-wrench-l; 
+  }
+}
+.czs-write-l {
+  &:before {
+    content: $czs-write-l; 
+  }
+}
+.czs-x-buy-l {
+  &:before {
+    content: $czs-x-buy-l; 
+  }
+}
+.czs-youtube {
+  &:before {
+    content: $czs-youtube; 
+  }
+}
+.czs-zhihu {
+  &:before {
+    content: $czs-zhihu; 
+  }
+}
+.czs-zip-folder {
+  &:before {
+    content: $czs-zip-folder; 
+  }
+}
+.czs-zip-folder-l {
+  &:before {
+    content: $czs-zip-folder-l; 
+  }
+}
+
