@@ -1,6 +1,5 @@
-![enter image description here](http://chuangzaoshi.com/icon/caomeibanner.png)
 
-🎁 草莓图标库PRO -- 
+🎁 草莓图标库Pro计划-- 
 
 公告：免费和开源的版本可以使用新版V2.0.0版，私用商用无任何影响。几乎每个图标都是本人亲自绘制，既需要耐心同时也要耗时耗力，为劳动成果能够得到尊重，项目能够得到长期的设计源动力和维护力。可以打赏获取Pro版本。感谢理解和支持！
 
