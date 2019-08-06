@@ -41,6 +41,10 @@
 - 品牌图标 丨 图标库中的品牌标志均为其各自所有者的商标，
 请勿将品牌图标用于除了代表该品牌或服务之外的目的
 
+### 草莓更新日志-2019.8.6
+![pro+v2.0.0](http://tva1.sinaimg.cn/large/0060lm7Tly1g5pnjf90ytj30jg03zjrb.jpg)
+- 新增：[database] [database-l] [hacker] [education] [education-l] [cloud-upload-l] [cloud-download-l] 
+
 ### 草莓Prov 1.0.0更新日志（更新：此版本的Pro大部分已经开源为v2.0.0免费版）
 ![pro](https://i.v2ex.co/qNtQzZ66.png)
 
