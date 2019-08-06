@@ -48,23 +48,23 @@
 ![pro](https://i.v2ex.co/qNtQzZ66.png)
 
 ### 草莓1.2.8更新日志
-![v1.2.8](http://ww2.sinaimg.cn/large/0060lm7Tly1fkbtqqy6hhj30ww04rwej.jpg)
+![v1.2.8](http://tva1.sinaimg.cn/large/0060lm7Tly1g5poz89xr0j30jg0ao3yy.jpg)
 - 优化：[github] 
 - 新增：[taiji] [telegram] [qzone] [pinterest] [paypal] [zhihu] [raspberry] [github-logo] [Instagram] [greatwall] [greatwall-l] [microchip-l] [shopping-cart-l] [shopping-cart] [truck] [truck-l] [map] [map-l] [board] [board-l] [rocket-l] [rocket] [lightning] [lightning-l] [crown] [crown-l] 
 
 ### 草莓1.2.1更新日志
-![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fho2fkbilfj30q902kjr6.jpg)
+![v1.2.1](http://tva1.sinaimg.cn/large/0060lm7Tly1g5poyx9c5sj30jg06a748.jpg)
 - 优化：[control] 
 - 新增：[add] [brush] [brush-l] [clothes] [clothes-l] [control-rank] [rollerbrush] [rollerbrush-l] [ruler] [ruler-l] [share]
 
 ### 草莓1.2.0更新日志
-![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fhqjsr8yo0j30x607h3yl.jpg)
+![v1.2.1](http://tva1.sinaimg.cn/large/0060lm7Tly1g5poyjvh4vj30jg0axdg9.jpg)
 - 优化：[cup] [cup-l]
 - 新增：[clock] [clock-l] [read] [read-l] [calculator] [calculator-l] [bluetooth] [bluetooth-l] [briefcase] [briefcase-l] [coin] [coin-l] [bitcoin] [money] [eye] [code-fork] [code-branch] [quote-left]  手势：[hand-bevel] [hand-slide] [hand-gather] [hande-vertical] [hand-Horizontal] [hand-button] [hand-touch] [hand-pointer] [hand-grasp] [hand-stop] 
 - 完善：官网16px和32px图标大小视觉切换
 
 ### 草莓1.0.1更新日志
-![v1.2.1](http://ww3.sinaimg.cn/large/006HJ39wgy1fhqjsrfk2zj30x7055mx3.jpg)
+![v1.2.1](http://tva1.sinaimg.cn/large/0060lm7Tly1g5poy2grgnj30jg0880sw.jpg)
 - 优化：[chemistry] [chemistry-l] [bug] [message-l] [tmall] [talk] [talk-l] [bilibili] [menu-l] [pengyouquan]
 - 新增：[bug-l] [message] [save-l] [camera] [layout-grids] [category-l] [location] [command-l] [command]
 - 修复：纠正1.0.0命名错误
